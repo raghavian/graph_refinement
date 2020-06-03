@@ -18,7 +18,7 @@ This is official Pytorch implementation of
 
 * Kindly cite our publication if you use any part of the code
 ```
-@article{raghav2020lungVAE,
+@article{raghav2020graphRefinement,
  	title={Graph Refinement based Airway Extraction using Mean-Field Networks and Graph Neural Networks},
 	author={Raghavendra Selvan et al.},
  	journal={Medical Image Analysis,
