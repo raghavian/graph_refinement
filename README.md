@@ -12,7 +12,7 @@ This is official Pytorch implementation of
 
 * Basic Pytorch dependency
 * Tested on Pytorch 1.3, Python 3.6 
-* Unfortunately, the clinical data used cannot be made public. We are working on making it available. 
+* Currently the clinical data used cannot be made public. We are working on making it available. 
 
 ### Usage guidelines ###
 
