@@ -20,7 +20,7 @@ This is official Pytorch implementation of
 ```
 @article{raghav2020graphRefinement,
  	title={Graph Refinement based Airway Extraction using Mean-Field Networks and Graph Neural Networks},
-	author={Raghavendra Selvan et al.},
+	author={Raghavendra Selvan and Thomas Kipf and Max Welling and Antonio Garcia-Uceda Juarez and Jesper H Pedersen and Jens Petersen and Marleen de Bruijne},
  	journal={Medical Image Analysis,
 	year={2020}}}
 ```
